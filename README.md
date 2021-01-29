@@ -12,7 +12,7 @@
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-305f8e?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=305f8e)
 ![Docker Badge](https://img.shields.io/badge/-Docker-49abf2?style=for-the-badge&labelColor=black&logo=Docker&logoColor=49abf2)
 
-#### Bizness
+#### You can find me on Linkedin:
 [![Linkedin Badge](https://img.shields.io/badge/-Kacper_Dróżdż-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kd1193/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kdrozdz.kdrozdz)
